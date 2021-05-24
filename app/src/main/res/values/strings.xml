@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppGYM</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- mainActivity-->
+    <string name="title_home">Home</string>
+    <string name="title_repost">Repost</string>
+    <string name="title_advertisement">Advertisement</string>
+
+    <!-- mainActivity-->
+
+    <!-- navigation-->
+
+    <!-- navigation-->
+
+
+    <!-- HomeFragment-->
+    <string name="abs_challenge">Abs Challenge</string>
+    <!-- HomeFragment-->
+
+
+    <!-- navigation_admin-->
+    <string name="tap_nguc">Tập ngực</string>
+    <string name="tap_tay">Tập tay</string>
+    <string name="tap_bụng">Tập bụng</string>
+    <string name="tap_chan">Tập chân</string>
+    <string name="dia_diem">Địa điểm</string>
+</resources>

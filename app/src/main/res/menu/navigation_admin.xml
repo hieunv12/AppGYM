@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/navigation_tap_nguc"
+            android:icon="@drawable/nguc"
+            android:title="@string/tap_nguc"/>
+        <item android:id="@+id/navigation_tap_bung"
+            android:icon="@drawable/bung"
+            android:title="@string/tap_bụng"/>
+        <item android:id="@+id/navigation_tap_tay"
+            android:icon="@drawable/tay"
+            android:title="@string/tap_tay"/>
+        <item android:id="@+id/navigation_tap_chan"
+            android:icon="@drawable/chan"
+            android:title="@string/tap_chan"/>
+        <item android:id="@+id/navigation_dia_diem"
+            android:icon="@drawable/map"
+            android:title="@string/dia_diem"/>
+    </group>
+</menu>
